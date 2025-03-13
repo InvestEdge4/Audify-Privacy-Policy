@@ -50,7 +50,7 @@ The App uses the **Spotify Web API** to access your music data. Your use of Spot
 ## 6. Changes to This Privacy Policy  
 We may update this policy from time to time. Any changes will be posted here, and significant changes will be communicated through the App.  
 
-If you have any questions, contact us at **[Your Email]**.  
+If you have any questions, contact me at **krishp61209@gmail.com**.  
 
 ---
 
