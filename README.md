@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Effective Date:** [Insert Date]  
+**Effective Date:** March 13, 2025  
 
-Thank you for using [Your App Name] ("the App"). Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our App.
+Thank you for using Audify ("the App"). Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our App.
 
 ---
 
